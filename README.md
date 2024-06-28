@@ -1,0 +1,2 @@
+# Complete-End-to-End-azure-data-engineering-project
+The project aims us  to build an project using azure services by which we can move our onprem sql server data to adlsgen2 with 3layers brone,silver,gold using ADF.Then transform those data to unstructured data to cleaniest data using ADB .The pipeline will then load Gold data into Azure SQL Server using ASA. then  reports is created using Power BI.
